@@ -3,12 +3,14 @@ This repository contains SQL assignments for the dvdrental sample database as pa
 
 ## Assignments
 
-### 1. Homework 1: Basic Film and Customer Queries
+# 1. Homework 1: Basic Film and Customer Queries
 [.sql](./.sql)
 - SQL queries that filter and select data from the film and customer tables based on specific conditions.
 
-### 2. Homework 2: Filtering with BETWEEN and IN Operators
+# 2. Homework 2: Filtering with BETWEEN and IN Operators
 [homework2.sql](./homework2.sql)
 - SQL queries that use the BETWEEN and IN operators to filter film and actor data according to assignment requirements.
 
-
+# 3. Homework 3: Filtering with LIKE, ILIKE, and Logical Operators
+[homework3.sql](./homework3.sql)
+- SQL queries using LIKE and ILIKE operators to filter country and film records by string patterns and other conditions.
