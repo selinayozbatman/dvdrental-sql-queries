@@ -17,4 +17,4 @@ This repository contains SQL assignments for the dvdrental sample database as pa
 
 # 4. Homework 4: Filtering with LIKE, ILIKE, and Logical Operators
 [homework4.sql](./homework4.sql)
--SQL queries for counting, filtering, and finding distinct values in the film, country, and city tables.
+- SQL queries for counting, filtering, and finding distinct values in the film, country, and city tables.
