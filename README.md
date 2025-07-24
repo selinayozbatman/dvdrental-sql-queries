@@ -14,3 +14,7 @@ This repository contains SQL assignments for the dvdrental sample database as pa
 # 3. Homework 3: Filtering with LIKE, ILIKE, and Logical Operators
 [homework3.sql](./homework3.sql)
 - SQL queries using LIKE and ILIKE operators to filter country and film records by string patterns and other conditions.
+
+# 4. Homework 4: Filtering with LIKE, ILIKE, and Logical Operators
+[homework4.sql](./homework4.sql)
+-SQL queries for counting, filtering, and finding distinct values in the film, country, and city tables.
