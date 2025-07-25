@@ -19,10 +19,14 @@ This repository contains SQL assignments for the dvdrental sample database as pa
 [homework4.sql](./homework4.sql)
 - SQL queries for counting, filtering, and finding distinct values in the film, country, and city tables.
 
-# 5. Homework 5: Filtering with ORDER BY, LIMIT, AND OFFSET
+# 5. Homework 5: Filtering with ORDER BY, LIMIT, and OFFSET
 [homework5.sql](./homework5.sql)
 - SQL queries using ORDER BY, LIMIT, and OFFSET to filter and sort data in the film and customer tables.
 
 # 6. Homework 6: Filtering with Aggregate Functions
 [homework6.sql](./homework6.sql)
 - SQL queries using aggregate functions and filtering for the film table.
+  
+# 7. Homework 7: Filtering with GROUP By and HAVING
+[homework7.sql](./homework7.sql)
+- SQL queries using GROUP BY, HAVING, and aggregate functions to group and analyze data in the film, customer, and city tables.
