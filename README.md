@@ -30,3 +30,7 @@ This repository contains SQL assignments for the dvdrental sample database as pa
 # 7. Homework 7: Filtering with GROUP By and HAVING
 [homework7.sql](./homework7.sql)
 - SQL queries using GROUP BY, HAVING, and aggregate functions to group and analyze data in the film, customer, and city tables.
+
+# 8. Homework 8: Employee Table – Insert, Update, and Delete Operations
+[homework8.sql](./homework8.sql)
+- In this task, an employee table was created with four columns. 50 sample records were added using Mockaroo. Then, 5 UPDATE and 5 DELETE queries were written using different columns as conditions.
