@@ -3,7 +3,7 @@ This repository contains SQL assignments for the dvdrental sample database as pa
 
 ## Assignments
 
-# 1. Homework 1: Basic Film and Customer Queries
+## 1. Homework 1: Basic Film and Customer Queries
 [.sql](./.sql)
 - SQL queries that filter and select data from the film and customer tables based on specific conditions.
 
