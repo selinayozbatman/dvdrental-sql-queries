@@ -47,3 +47,7 @@ This repository contains SQL assignments for the dvdrental sample database as pa
 [homework11.sql](./homework11.sql)
 - Demonstrates SQL set operations to compare first_name and last_name between two tables.
 
+## 12. Homework 12: Subqueries and Aggregations in SQL
+[homework12.sql](./homework12.sql)
+- SQL queries using subqueries to find long films, extreme values, and top customers.
+
