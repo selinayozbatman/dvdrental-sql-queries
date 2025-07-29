@@ -34,3 +34,7 @@ This repository contains SQL assignments for the dvdrental sample database as pa
 # 8. Homework 8: Employee Table – Insert, Update, and Delete Operations
 [homework8.sql](./homework8.sql)
 - In this task, an employee table was created with four columns. 50 sample records were added using Mockaroo. Then, 5 UPDATE and 5 DELETE queries were written using different columns as conditions.
+
+# 9. Homework 9: INNER JOIN Queries
+[homework9.sql](./homework9.sql)
+- Queries showing how to join related tables to fetch combined data.
