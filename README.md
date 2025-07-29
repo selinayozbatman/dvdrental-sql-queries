@@ -39,6 +39,11 @@ This repository contains SQL assignments for the dvdrental sample database as pa
 [homework9.sql](./homework9.sql)
 - Queries showing how to join related tables to fetch combined data.
 
-# 10. Homework 10: LEFT, RIGHT, and FULL JOI Queries
+# 10. Homework 10: LEFT, RIGHT, and FULL JOIN Queries
 [homework10.sql](./homework10.sql)
 - SQL queries demonstrating how to use LEFT JOIN, RIGHT JOIN, and FULL JOIN to combine data from related tables
+
+# 11. Homework 11: Using Set Operators in SQL (UNION, INTERSECT, EXCEPT)
+[homework11.sql](./homework11.sql)
+- Demonstrates SQL set operations to compare first_name and last_name between two tables.
+
