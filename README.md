@@ -38,3 +38,7 @@ This repository contains SQL assignments for the dvdrental sample database as pa
 # 9. Homework 9: INNER JOIN Queries
 [homework9.sql](./homework9.sql)
 - Queries showing how to join related tables to fetch combined data.
+
+# 10. Homework 10: LEFT, RIGHT, and FULL JOI Queries
+[homework10.sql](./homework10.sql)
+- SQL queries demonstrating how to use LEFT JOIN, RIGHT JOIN, and FULL JOIN to combine data from related tables
